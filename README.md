@@ -2,6 +2,8 @@
 
 ### 1.前言
 
+模仿Mybatis先的项目，功能很少，收获很大。
+
 我的博客：https://www.nroma.cn
 
 ### 2.NroServer介绍
